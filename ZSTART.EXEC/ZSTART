@@ -4,7 +4,7 @@
  *                                                            *
  * Function:  Create/Update the ISPF Profile variable         *
  *            ZSTART which is used each time ISPF Starts      *
- *            to setup the ISPF envionrment.                  *
+ *            to setup the ISPF environment.                  *
  *                                                            *
  * Syntax:    %zstart option                                  *
  *                                                            *
